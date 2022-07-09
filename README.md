@@ -12,7 +12,7 @@ I read through the documentation to figure out how to get JSON with AJAX using a
 
 https://www.pexels.com/api/documentation/
 
-In order to generate an API key I need to create an account.
+In order to generate an API key I needed to create an account.
 
 Once I was successfully sending a request (and receiving a JSON response)...
 
