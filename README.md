@@ -18,4 +18,6 @@ Once I was successfully sending a request (and receiving a JSON response)...
 
 I had to "wire up" this request to an event listener that the user can use to search for different categories of photos.
 
+I also created a load more button which appeared after search is made and loaded the next page of photos when clicked.
+
 As for the design, I just partially copied the Pexels Homepage.
